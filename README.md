@@ -24,5 +24,5 @@
 * Execute each code cell in the notebook sequentially. Make sure to read any instructions provided within the notebook cells.
 
 # Interpret Results: 
-*Once all cells have been executed, you'll see the results of data preprocessing, model training, and evaluation. Interpret the results to understand the performance of the model.
+* Once all cells have been executed, you'll see the results of data preprocessing, model training, and evaluation. Interpret the results to understand the performance of the model.
   
