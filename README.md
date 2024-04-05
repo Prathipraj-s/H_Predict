@@ -16,7 +16,7 @@
 
 # Clone the Repository: 
 *Clone the repository containing the Jupyter Notebook (Heart_Failure_Prediction_ANN.ipynb) and the dataset
-**git clone https://github.com/your-username/heart-failure-prediction.git**
+**git clone https://github.com/Prathipraj-s/H_Predict.git**
 # Open Notebook: 
 *In your web browser, navigate to Heart_Failure_Prediction_ANN.ipynb and open it.
 
